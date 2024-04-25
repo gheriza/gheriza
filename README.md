@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gheriza
 - 👀 I’m interested in sports
-- 🌱 I’m currently learning to be the best in this world
-- 📫 find me in:
-- ig:mahdoud.d
+- 🌱 I’m currently learning to be the best in this world.
 
 <!---
 gheriza/gheriza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
